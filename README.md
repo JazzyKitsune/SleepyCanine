@@ -7,4 +7,4 @@ Anyway have fun here, I guess
 
 [![SleepyCanine's GitHub stats](https://github-readme-stats.vercel.app/api?username=SleepyCanine&hide_rank=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyCanine&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyCanine&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
